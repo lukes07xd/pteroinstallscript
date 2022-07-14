@@ -5,7 +5,7 @@ Well, it's a web based control panel for hosting Game servers (Minecraft, Rust, 
                                                  And Voice servers (Mumble, Teamspeak3)
                                                  You can also add any other servers that run on linux.
 
-Please note that pterodactyl panel only supports: Ubuntu 18.04 and 20.24
+Please note that pterodactyl panel only supports: Ubuntu 18.04 and 20.04
                                                   CentOS 7 and 8
                                                   Debian 9, 10 and 11
         
