@@ -11,7 +11,7 @@ Please note that pterodactyl panel only supports: Ubuntu 18.04 and 20.04
         
 How to use: 
 1) Open terminal on any of the supported versions.
-2) Make sure curl is installed by typing "curl" (if it's not install it with "apt install curl"
+2) Make sure curl is installed by typing "curl" (if it's not install it with "apt install curl")
 3) Switch to root user by entering "sudo -i" and hitting enter.
 4) Now run this command: "bash <(curl -s https://raw.githubusercontent.com/lukes07xd/pteroinstallscript/main/pteroinstall.sh)"
 5) Follow the instructions in your linux console.
